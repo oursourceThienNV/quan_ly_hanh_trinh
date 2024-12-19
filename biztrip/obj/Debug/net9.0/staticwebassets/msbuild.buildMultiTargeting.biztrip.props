@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\biztrip.props" />
+</Project>

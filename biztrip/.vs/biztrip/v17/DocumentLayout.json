@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\source\\repos\\biztrip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\request\\requesttrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:request\\requesttrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\request\\stagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:request\\stagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\models\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:models\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\request\\queryregistrationid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:request\\queryregistrationid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\request\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:request\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\models\\registrationrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:models\\registrationrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\request\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:request\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\request\\updateregistrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:request\\updateregistrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\request\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:request\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\biztrip.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:biztrip.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|c:\\users\\nguye\\source\\repos\\biztrip\\request\\usersearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71DA59E-4605-43DB-834A-BD301EB70CA1}|biztrip.csproj|solutionrelative:request\\usersearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\Stage.cs",
+              "RelativeDocumentMoniker": "Models\\Stage.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\Stage.cs",
+              "RelativeToolTip": "Models\\Stage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:08:17.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueryRegistrationID.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\QueryRegistrationID.cs",
+              "RelativeDocumentMoniker": "Request\\QueryRegistrationID.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\QueryRegistrationID.cs",
+              "RelativeToolTip": "Request\\QueryRegistrationID.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:05:40.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "Request\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\RegistrationRequest.cs",
+              "RelativeToolTip": "Request\\RegistrationRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:30:17.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StageDto.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\StageDto.cs",
+              "RelativeDocumentMoniker": "Request\\StageDto.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\StageDto.cs",
+              "RelativeToolTip": "Request\\StageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:13:12.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestTrip.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\RequestTrip.cs",
+              "RelativeDocumentMoniker": "Request\\RequestTrip.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\RequestTrip.cs",
+              "RelativeToolTip": "Request\\RequestTrip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:12:34.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAGsBAAAAAAAAAIA0wJ8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:25:11.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAYwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:41:25.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:29:25.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:28:27.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:28:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\Registration.cs",
+              "RelativeToolTip": "Models\\Registration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:27:28.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "Request\\SearchRequest.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\SearchRequest.cs",
+              "RelativeToolTip": "Request\\SearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:24:57.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationRespone.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\RegistrationRespone.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrationRespone.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Models\\RegistrationRespone.cs",
+              "RelativeToolTip": "Models\\RegistrationRespone.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:22:11.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateRegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\UpdateRegistrationRequest.cs",
+              "RelativeDocumentMoniker": "Request\\UpdateRegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\UpdateRegistrationRequest.cs",
+              "RelativeToolTip": "Request\\UpdateRegistrationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:07:15.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\UserRegister.cs",
+              "RelativeDocumentMoniker": "Request\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\UserRegister.cs",
+              "RelativeToolTip": "Request\\UserRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:17:57.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T00:32:42.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "biztrip.http",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\biztrip.http",
+              "RelativeDocumentMoniker": "biztrip.http",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\biztrip.http",
+              "RelativeToolTip": "biztrip.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-19T00:32:43.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserSearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\UserSearchRequest.cs",
+              "RelativeDocumentMoniker": "Request\\UserSearchRequest.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\biztrip\\Request\\UserSearchRequest.cs",
+              "RelativeToolTip": "Request\\UserSearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:59:41.803Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
